@@ -1,7 +1,6 @@
 # Applied Machine Learning in Python  
   
-University Of Illinoios - Urbana Champaign:  
-**CS441 Applied Machine Learning Assignments**  
+**Applied Machine Learning Assignments**  
   
 Week 1: NumPy  
 Week 2: Classification - Nearest Neighbor and Naive Bayes  
