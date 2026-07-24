@@ -1,5 +1,4 @@
 # Applied Machine Learning in Python
-**University of Illinois Urbana-Champaign · Master of Computer Science (Data Science)**
 
 Thirteen programming assignments spanning the full arc of machine learning — from building classifiers from scratch using only NumPy, through probabilistic models and clustering, to training neural networks in PyTorch. Each entry links directly to the rendered notebook (HTML) and the source code (ipynb).
 
